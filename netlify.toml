@@ -4,4 +4,3 @@
   [plugins.inputs]
   cloudName = "cynthia-teeters"
   deliveryType = "upload"
-  uploadPreset = "arcane"
